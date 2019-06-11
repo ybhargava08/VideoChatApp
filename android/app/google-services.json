@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895622550595",
+    "firebase_url": "https://videochatapp-39322.firebaseio.com",
+    "project_id": "videochatapp-39322",
+    "storage_bucket": "videochatapp-39322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895622550595:android:6936782258510900",
+        "android_client_info": {
+          "package_name": "com.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895622550595-pih5frci4ircuo9l1bouef5p230ls8sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videochat",
+            "certificate_hash": "06357f830b1e29036df2047e85ecd8b4e30fcab8"
+          }
+        },
+        {
+          "client_id": "895622550595-ctm9olnaaha1am72r9v0dsvv7uu7cgu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCfVemM5PUVUAwdvhXdSrJJ29V2fe-jE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895622550595-ctm9olnaaha1am72r9v0dsvv7uu7cgu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

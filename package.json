@@ -1,0 +1,35 @@
+{
+  "name": "VideoChat",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "randomcolor": "^0.5.4",
+    "react": "16.6.3",
+    "react-native": "^0.59.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-google-signin": "^1.2.1",
+    "react-native-incall-manager": "^3.2.2",
+    "react-native-keep-awake": "^4.0.0",
+    "react-native-sound": "^0.10.12",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-webrtc": "^1.69.0",
+    "react-native-websocket": "^1.0.2",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
