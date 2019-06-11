@@ -1,4 +1,4 @@
-Video Chat App
+# Video Chat App
 
 This is a sample app created on React Native (currently in build phase) 
 
